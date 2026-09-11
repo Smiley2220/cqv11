@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geral\\Downloads\\CampusQ-Web-Vercel-Ready-v11\\cqv11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|CampusQ.API\\CampusQ.API.csproj|c:\\users\\geral\\downloads\\campusq-web-vercel-ready-v11\\cqv11\\campusq.api\\campusq.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|CampusQ.API\\CampusQ.API.csproj|solutionrelative:campusq.api\\campusq.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|CampusQ.API\\CampusQ.API.csproj|c:\\users\\geral\\downloads\\campusq-web-vercel-ready-v11\\cqv11\\campusq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1000000-0000-0000-0000-000000000001}|CampusQ.API\\CampusQ.API.csproj|solutionrelative:campusq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\geral\\Downloads\\CampusQ-Web-Vercel-Ready-v11\\cqv11\\CampusQ.API\\Program.cs",
+              "RelativeDocumentMoniker": "CampusQ.API\\Program.cs",
+              "ToolTip": "C:\\Users\\geral\\Downloads\\CampusQ-Web-Vercel-Ready-v11\\cqv11\\CampusQ.API\\Program.cs",
+              "RelativeToolTip": "CampusQ.API\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAWwHMAAADOAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T11:44:33.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CampusQ.API.csproj",
+              "DocumentMoniker": "C:\\Users\\geral\\Downloads\\CampusQ-Web-Vercel-Ready-v11\\cqv11\\CampusQ.API\\CampusQ.API.csproj",
+              "RelativeDocumentMoniker": "CampusQ.API\\CampusQ.API.csproj",
+              "ToolTip": "C:\\Users\\geral\\Downloads\\CampusQ-Web-Vercel-Ready-v11\\cqv11\\CampusQ.API\\CampusQ.API.csproj",
+              "RelativeToolTip": "CampusQ.API\\CampusQ.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-11T11:42:23.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\bin\Debug\net8.0\CampusQ.Core.deps.json
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\bin\Debug\net8.0\CampusQ.Core.dll
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\bin\Debug\net8.0\CampusQ.Core.pdb
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\obj\Debug\net8.0\CampusQ.Core.csproj.AssemblyReference.cache
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\obj\Debug\net8.0\CampusQ.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\obj\Debug\net8.0\CampusQ.Core.AssemblyInfoInputs.cache
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\obj\Debug\net8.0\CampusQ.Core.AssemblyInfo.cs
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\obj\Debug\net8.0\CampusQ.Core.csproj.CoreCompileInputs.cache
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\obj\Debug\net8.0\CampusQ.Core.dll
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\obj\Debug\net8.0\refint\CampusQ.Core.dll
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\obj\Debug\net8.0\CampusQ.Core.pdb
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\CampusQ.Core\obj\Debug\net8.0\ref\CampusQ.Core.dll
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\buildcheck\CampusQ.Core.deps.json
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\buildcheck\CampusQ.Core.dll
+C:\Users\geral\Downloads\CampusQ-Web-Vercel-Ready-v11\cqv11\buildcheck\CampusQ.Core.pdb
