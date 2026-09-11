@@ -1,0 +1,8 @@
+import Link from 'next/link';
+import { offices, purposes } from '../lib/data';
+
+const officeIcons = ['▣', '₱', '◈'];
+
+export default function Home(){
+	return <div className="container home-shell"><section className="hero"><div className="hero-copy"><div className="eyebrow">College of Our Lady of Mercy Inc.</div><div className="hero-kicker">Campus service, made simpler</div><h1>Queue less.<br/>Campus more.</h1><p>Get a ticket at the self-service kiosk, or sign in if you manage a campus queue.</p><div className="actions"><Link className="btn btn-primary" href="/kiosk">Open kiosk <span aria-hidden="true">→</span></Link><Link className="btn btn-white" href="/login">Staff login</Link></div></div><div className="hero-panel"><span className="hero-panel-label">CampusQ</span><strong>One ticket.</strong><strong>Less waiting.</strong><div className="hero-panel-line"/><span>Choose how you want to continue.</span></div></section><div className="service-heading"><div><div className="eyebrow eyebrow-dark">Available services</div><h2>Campus service desks</h2><div className="muted">Open the kiosk to choose an office and join a queue.</div></div><span className="service-count">{offices.length} service desks</span></div><div className="office-grid">{offices.map((o,i)=><div className="office-card" key={o}><div className="office-icon">{officeIcons[i]}</div><div className="office-card-top"><span className="card-index">0{i + 1}</span><span className="card-arrow" aria-hidden="true">↗</span></div><h3>{o}</h3><p className="muted">{purposes[o].join(' • ')}</p><Link className="btn btn-outline" href="/kiosk">Open kiosk <span aria-hidden="true">→</span></Link></div>)}</div><div className="footer-note">CampusQ Web Demo • Queue management system</div></div>
+}
