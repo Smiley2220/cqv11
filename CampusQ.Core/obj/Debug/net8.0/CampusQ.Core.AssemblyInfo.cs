@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CampusQ.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65cc0f2b8bdde2305c4ecce9125bfa8559279964")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 65cc0f2b8bdde2305c4ecce9125bfa8559279964
 [assembly: System.Reflection.AssemblyProductAttribute("CampusQ.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CampusQ.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
